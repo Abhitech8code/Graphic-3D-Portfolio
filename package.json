@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Abhitech8code.github.io/portfolio",
+  "homepage": "https://Abhitech8code.github.io/Graphic-3D-Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
